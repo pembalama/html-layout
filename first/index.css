@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    background-color: rgb(211, 199, 199);
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.header {
+    background-color: rgb(87, 84, 84);
+    height: 20vh;
+    width: 100vw;
+    margin: auto;
+}
+
+.main-body {
+    background-color: rgb(243, 236, 236);
+    height: 80vh;
+    width: 80vw;
+    margin: auto;
+}
+
+.footer {
+    background-color: rgb(24, 22, 22);
+    height: 10vh;
+    width: 80vw;
+    margin: auto;
+}

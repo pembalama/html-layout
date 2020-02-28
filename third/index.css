@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Box {
+    height: 100px;
+    width: 100%;
+}
+
+.Box-xl {
+    height: 280px;
+    width: 100%;
+  }
+  
+  .Box-1 {
+    background-color: rgb(218, 212, 212);
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .Box-1-div {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(77, 147, 228);
+  }
+  
+  .Box-2 {
+    background-color: rgb(240, 234, 234);
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .Box-3 {
+    background-color: rgb(72, 142, 223);
+  }
+  
+  .Box-4 {
+    background-color: rgb(76, 223, 191);
+  }
+  
+  .Box-5 {
+    background-color: rgb(156, 214, 98);
+  }
+  
+  .Box-6 {
+    background-color: rgb(231, 213, 16);
+  }
